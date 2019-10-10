@@ -22,6 +22,10 @@ Please put your sketches or designs for the Jack in the Box.
 <p align="center">
   <img src="Lab5Mole.png" width="500" height="500">
 </p>
+
+<p align="center">
+  <img src="Lab5_MotorHolder.png" width="500" height="500">
+</p>
 **b. Include `.stl` or `.svg` files if you made modifications.**
 
 [Mole](https://github.com/popeil97/IDD-Fa19-Lab5/blob/master/mole%20body.STL)
