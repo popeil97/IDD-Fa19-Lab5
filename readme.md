@@ -11,7 +11,7 @@ Please put your sketches or designs for the Jack in the Box.
 **a. Include a photo of your box here.**
 
 <p align="center">
-  <img src="Lab5InLab.PNG" width="500" height="500">
+  <img src="Lab5_Box.PNG" width="500" height="500">
 </p>
 **b. Include `.stl` files.**
 **NA**
