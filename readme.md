@@ -20,7 +20,7 @@ Please put your sketches or designs for the Jack in the Box.
 
 **a. Include a photo of your printed part here.**
 <p align="center">
-  <img src="Lab5_Circuit.PNG" width="500" height="500">
+  <img src="Lab5Mole.png" width="500" height="500">
 </p>
 **b. Include `.stl` or `.svg` files if you made modifications.**
 
@@ -46,3 +46,5 @@ Include here:
   <img src="Lab5InLab.PNG" width="500" height="500">
 </p>
 1. A video of your Jack in the Box in action.
+**Did a whack a mole game that tracks how many times you hit the mole.**
+[WhackAMole](https://youtu.be/abljX0Aiqpc)
