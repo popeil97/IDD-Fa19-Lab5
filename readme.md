@@ -51,4 +51,5 @@ Include here:
 </p>
 1. A video of your Jack in the Box in action.
 **Did a whack a mole game that tracks how many times you hit the mole.**
+
 [WhackAMole](https://youtu.be/abljX0Aiqpc)
